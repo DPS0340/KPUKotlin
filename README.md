@@ -8,3 +8,6 @@
 
 ## 강의 자료
 <https://sites.google.com/site/choeuzin/abeek>
+
+## 라이센스
+MIT 라이센스.
