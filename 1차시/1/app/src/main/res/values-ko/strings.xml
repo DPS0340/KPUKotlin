@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KPUKotlin</string>
+    <string name="hello">헬로 월드</string>
+    <string name="click">클릭</string>
+</resources>
