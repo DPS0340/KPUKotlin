@@ -3,7 +3,6 @@ package com.example.kpukotlin3
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_result.*
-import org.jetbrains.anko.toast
 
 class ResultActivity : AppCompatActivity() {
 

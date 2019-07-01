@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         val a = pref.getInt("KEY_A", 0)
         val b = pref.getInt("KEY_B", 0)
         aInput.setText(a.toString())
-        bInput.setText(a.toString())
+        bInput.setText(b.toString())
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
