@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="A 삭제" android:id="@+id/remove_a"/>
+    <item android:title="B 삭제" android:id="@+id/remove_b"/>
+    <item android:title="전체 숫자 삭제" android:id="@+id/remove_all"/>
+</menu>
