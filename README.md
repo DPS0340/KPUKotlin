@@ -1,4 +1,6 @@
 # KPUKotlin
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 한국산업기술대학교 창의실천실 II 비교과 프로그램 - Android(Kotlin)
 
 최우진 교수님 프로그램 - 이지호 수강
